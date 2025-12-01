@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "secret base ～君がくれたもの～",
+  "base_artist": "ZONE",
+  "createdAt": "2025-12-01T22:18:35.824590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secret base",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/01_Secret_base_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "secret base ~君がくれたもの~",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/02_secret_base_~君がくれたもの~_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "secret base ~君がくれたもの~ (10 years after Ver.)",
+      "artist": "本間芽衣子（CV.茅野愛衣） feat. 安城鳴子（CV.戸松 遥） & 鶴見知利子（CV.早見沙織）",
+      "has_synced": true,
+      "path": "select/03_secret_base_~君がくれたもの~_(10_years_after_Ver.)_本間芽衣子(CV.茅野愛衣)_feat._安城鳴子(CV.戸松_遥)_&_鶴見知利子(CV.早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "secret base ~君がくれたもの~ (10 years after Ver.)",
+      "artist": "本間芽衣子（CV.茅野愛衣）/安城鳴子（CV.戸松 遥）/鶴見知利子（CV.早見沙織）",
+      "has_synced": true,
+      "path": "select/04_secret_base_~君がくれたもの~_(10_years_after_Ver.)_本間芽衣子(CV.茅野愛衣)_安城鳴子(CV.戸松_遥)_鶴見知利子(CV.早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "secret base ~君がくれたもの~",
+      "artist": "Zone",
+      "has_synced": true,
+      "path": "select/05_secret_base_~君がくれたもの~_Zone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "secret base ~君がくれたもの~ feat.えみい (テーマパークガール)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/06_secret_base_~君がくれたもの~_feat.えみい_(テーマパークガール)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "secret base ~君がくれたもの~ feat.えみい (テーマパークガール)",
+      "artist": "kobasolo, えみい",
+      "has_synced": true,
+      "path": "select/07_secret_base_~君がくれたもの~_feat.えみい_(テーマパークガール)_kobasolo,_えみい.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "secret base~君がくれたもの~",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/08_secret_base~君がくれたもの~_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "secret base ~Kimi ga Kureta Mono",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/09_secret_base_~Kimi_ga_Kureta_Mono_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "secret base ~Kimi ga Kureta Mono~",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/10_secret_base_~Kimi_ga_Kureta_Mono~_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Secret Base ~Kimi Ga Kureta Mono~ (10 Years After Ver.) [From \"Anohana\"]",
+      "artist": "Guitarrista de Atena feat. Myio",
+      "has_synced": false,
+      "path": "select/11_Secret_Base_~Kimi_Ga_Kureta_Mono~_(10_Years_After_Ver.)_[From__Anohana_]_Guitarrista_de_Atena_feat._Myio.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "secret base ~君がくれたもの~ feat.えみい (テーマパークガール)",
+      "artist": "kobasolo, えみい",
+      "has_synced": true,
+      "path": "select/12_secret_base_~君がくれたもの~_feat.えみい_(テーマパークガール)_kobasolo,_えみい.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Secret Base ~Kimi Ga Kureta Mono~",
+      "artist": "Zone (Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai)",
+      "has_synced": true,
+      "path": "select/13_Secret_Base_~Kimi_Ga_Kureta_Mono~_Zone_(Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Secret Base ～君がくれたもの～",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/pl_01_Secret_Base_~君がくれたもの~_ZONE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "secret base ～君がくれたもの～ (10 years after Ver.)",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/pl_02_secret_base_~君がくれたもの~_(10_years_after_Ver.)_ZONE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "secret base ～君がくれたもの～ (Memento mori Ver.)",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/pl_03_secret_base_~君がくれたもの~_(Memento_mori_Ver.)_ZONE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "secret base～君がくれたもの～",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/pl_04_secret_base~君がくれたもの~_ZONE.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "secret base ～君がくれたもの～",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/pl_05_secret_base_~君がくれたもの~_ZONE.txt"
+    }
+  ]
+}
